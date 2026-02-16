@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevinMJ
 - 👀 I’m interested in solve public issues on public administration on México.
 - 🌱 I’m currently learning Data Science with python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Analytics or Front-End Projects
 - 📫 How to reach me: email me: kemj09@outlook.com
 
 <!---
